@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CoolClock/2.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-16 18:07+0100\n"
+"PO-Revision-Date: 2014-09-16 18:14+0100\n"
+"Last-Translator: RavanH <ravanhagen@gmail.com>\n"
+"Language-Team:  <ravanhagen@gmail.com>\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../../coolclock-pro\n"
+
+#: ../coolclock.php:271
+msgid "Swiss Rail"
+msgstr "Swiss Rail"
+
+#: ../coolclock.php:272
+msgid "Chunky Swiss"
+msgstr "Chunky Swiss"
+
+#: ../coolclock.php:273
+msgid "Chunky Swiss Black"
+msgstr "Chunky Swiss črna"
+
+#: ../coolclock.php:274
+msgid "Fancy"
+msgstr "Fensi"
+
+#: ../coolclock.php:275
+msgid "Machine"
+msgstr "Stroj"
+
+#: ../coolclock.php:276
+msgid "SimonBaird.com"
+msgstr "SimonBaird.com"
+
+#: ../coolclock.php:277
+msgid "Classic by Bonstio"
+msgstr "Klasik od Bonstia"
+
+#: ../coolclock.php:278
+msgid "Modern by Bonstio"
+msgstr "Moderna od Bonstia"
+
+#: ../coolclock.php:279
+msgid "Simple by Bonstio"
+msgstr "Enostavna od Bonstia"
+
+#: ../coolclock.php:280
+msgid "SecurePHP"
+msgstr "SecurePHP"
+
+#: ../coolclock.php:281
+msgid "Tes2"
+msgstr "Tes2"
+
+#: ../coolclock.php:282
+msgid "Lev"
+msgstr "Lev"
+
+#: ../coolclock.php:283
+msgid "Sand"
+msgstr "Pesek"
+
+#: ../coolclock.php:284
+msgid "Sun"
+msgstr "Sonce"
+
+#: ../coolclock.php:285
+msgid "Tor"
+msgstr "Tor"
+
+#: ../coolclock.php:286
+msgid "Cold"
+msgstr "Mrzla"
+
+#: ../coolclock.php:287
+msgid "Babosa"
+msgstr "Babosa"
+
+#: ../coolclock.php:288
+msgid "Tumb"
+msgstr "Tumb"
+
+#: ../coolclock.php:289
+msgid "Stone"
+msgstr "Kamen"
+
+#: ../coolclock.php:290
+msgid "Disc"
+msgstr "Plošča"
+
+#: ../coolclock.php:291
+msgid "Watermelon by Yoo Nhe"
+msgstr "Lubenica od Yoo Nhe"
+
+#: ../coolclock.php:292
+msgid "Mister by Carl Lister"
+msgstr "Mister od Carl Lister"
+
+#: ../coolclock.php:293
+msgid "Minimal"
+msgstr "Minimalno"
+
+#: ../coolclock.php:300
+msgid "Linear"
+msgstr "Linearno"
+
+#: ../coolclock.php:301
+msgid "Logarithmic"
+msgstr "Logaritemsko"
+
+#: ../coolclock.php:302
+msgid "Logarithmic reversed"
+msgstr "Logaritemsko obratno"
+
+#: ../coolclock.php:307 ../coolclock.php:378
+msgid "none"
+msgstr "nič"
+
+#: ../coolclock.php:308
+msgid "time (am/pm)"
+msgstr ""
+
+#: ../coolclock.php:309
+msgid "time (24h)"
+msgstr "čas"
+
+#: ../coolclock.php:310
+msgid "date"
+msgstr "datum"
+
+#: ../coolclock.php:314
+msgid "Title:"
+msgstr "Naslov:"
+
+#: ../coolclock.php:318
+msgid "Clock"
+msgstr "Ura"
+
+#: ../coolclock.php:319
+msgid "Skin:"
+msgstr "Skin:"
+
+#: ../coolclock.php:329
+msgid "Custom (define below)"
+msgstr "Ročno (definirati spodaj)"
+
+#: ../coolclock.php:332
+msgid "Custom skin parameters:"
+msgstr "Ročni parametri skina:"
+
+#: ../coolclock.php:336
+msgid "Radius:"
+msgstr "Radius:"
+
+#: ../coolclock.php:342
+msgid "Hide second hand"
+msgstr "Skrij drugo roko"
+
+#: ../coolclock.php:348
+#, fuzzy
+msgid "Show digital:"
+msgstr "Prikazati digitalni čas"
+
+#: ../coolclock.php:359
+msgid "GMT offset:"
+msgstr "GMT offset:"
+
+#: ../coolclock.php:360
+msgid "(leave blank for local time)"
+msgstr "pustiti prazno za lokalni čas)"
+
+#: ../coolclock.php:363
+msgid "Scale:"
+msgstr "Skala:"
+
+#: ../coolclock.php:374
+msgid "Align:"
+msgstr "Poravnava:"
+
+#: ../coolclock.php:381 ../../coolclock-pro/coolclock-pro.php:166
+msgid "left"
+msgstr "levo"
+
+#: ../coolclock.php:384 ../../coolclock-pro/coolclock-pro.php:192
+msgid "right"
+msgstr "desno"
+
+#: ../coolclock.php:387 ../../coolclock-pro/coolclock-pro.php:179
+msgid "center"
+msgstr "center"
+
+#: ../coolclock.php:391
+msgid "Subtext:"
+msgstr "Podnapis:"
+
+#: ../coolclock.php:392
+msgid "(basic HTML allowed)"
+msgstr "(osnovni HTML dovoljen)"
+
+#: ../coolclock.php:396 ../coolclock.php:398
+#: ../../coolclock-pro/coolclock-pro.php:143
+msgid "Background"
+msgstr "Ozadje"
+
+#: ../coolclock.php:396
+#, fuzzy
+msgid "Please upgrade the CoolClock - Advanced extension."
+msgstr "Prosimo, posodobite na CoolClosk - Dodatni vtičnik"
+
+#: ../coolclock.php:396
+msgid ""
+"You can download the new version using the remaining download credits and "
+"the link that you have received in the confirmation email after your first "
+"purchase."
+msgstr ""
+"Lahko prenesete novo verzijo z uporabo preostalih kreditov za prenos in "
+"povezava ki ste jo prejeli z e-mailom s potrditvijo po prvem nakupu."
+
+#: ../coolclock.php:396
+msgid "If you do not have that email anymore, please contact us."
+msgstr "Če nimate več tega e-maila, nam to prosim sporočite."
+
+#: ../coolclock.php:396
+msgid ""
+"Do NOT resave widget settings before upgrading the Advanced extension or "
+"your advanced settings will be lost!"
+msgstr ""
+"NE shranjujte nastavitev vtiča, preden posodobite na Pro"
+"extension, sicet bodo nastavitve Pro extensiona izgubljene!"
+
+#: ../coolclock.php:398
+msgid "Available in the Advanced extension &raquo;"
+msgstr "Dostopno v Pro verziji.&raquo;"
+
+#: ../coolclock.php:452
+msgid "Analog Clock"
+msgstr "Analogna ura"
+
+#: ../coolclock.php:455
+msgid "Add an analog clock to your sidebar."
+msgstr "Dodaj analogno uro vaši pasici oz. sidebar-ju."
+
+#: ../../coolclock-pro/coolclock-pro.php:146
+msgid "Image URL:"
+msgstr "URL slike:"
+
+#: ../../coolclock-pro/coolclock-pro.php:153
+msgid "Repeat image"
+msgstr "Ponovitev slike"
+
+#: ../../coolclock-pro/coolclock-pro.php:156
+msgid "Position:"
+msgstr "Pozicija:"
+
+#: ../../coolclock-pro/coolclock-pro.php:162
+msgid "top left"
+msgstr "zgoraj levo"
+
+#: ../../coolclock-pro/coolclock-pro.php:170
+msgid "bottom left"
+msgstr "dol levo"
+
+#: ../../coolclock-pro/coolclock-pro.php:175
+msgid "top"
+msgstr "zgoraj"
+
+#: ../../coolclock-pro/coolclock-pro.php:183
+msgid "bottom"
+msgstr "spodaj"
+
+#: ../../coolclock-pro/coolclock-pro.php:188
+msgid "top right"
+msgstr "zgoraj desno"
+
+#: ../../coolclock-pro/coolclock-pro.php:196
+msgid "bottom right"
+msgstr "dol desno"
+
+#: ../../coolclock-pro/coolclock-pro.php:201
+msgid "Width"
+msgstr "Širina"
+
+#: ../../coolclock-pro/coolclock-pro.php:203
+msgid "Height"
+msgstr "Višina"
+
+#: ../../coolclock-pro/coolclock-pro.php:207
+msgid "Color:"
+msgstr "Barva:"
+
+#: ../../coolclock-pro/coolclock-pro.php:211
+msgid "Border radius:"
+msgstr "Zaobljenost obrobe:"
+
+#: ../../coolclock-pro/coolclock-pro.php:215
+msgid "Clock position relative to background from:"
+msgstr "Pozicija ure povezava z ozadjem od:"
+
+#: ../../coolclock-pro/coolclock-pro.php:217
+msgid "Left"
+msgstr "Levo"
+
+#: ../../coolclock-pro/coolclock-pro.php:219
+msgid "Top"
+msgstr "Zgoraj"
